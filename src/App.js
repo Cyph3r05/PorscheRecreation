@@ -57,7 +57,7 @@ class App extends Component {
         </div>
         <div className="push" />
         <div className="footerContainer">
-          <Card.Footer>© 202rs North America, Inc.</Card.Footer>
+          <Card.Footer>© 2020 Porsche .</Card.Footer>
         </div>
       </React.Fragment>
     );

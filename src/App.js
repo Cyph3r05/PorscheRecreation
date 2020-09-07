@@ -21,7 +21,7 @@ class App extends Component {
     return (
       <React.Fragment>
         <div className="navContainer">
-          {/* Add a fake login page???  */
+          {/* Add a fake login page???  */}
           <NewNavbar />
           <CriaCarousel />
         </div>

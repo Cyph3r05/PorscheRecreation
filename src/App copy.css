@@ -1,0 +1,126 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #552f34;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Custom Section */
+/* For demo */
+
+#root {
+  font-family: "Baloo 2", cursive;
+}
+
+.carousel {
+  margin-top: 80px;
+}
+.headlineContainer {
+  width: 100%;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.carouselHeadline {
+  color: white;
+  position: absolute;
+
+  top: 250px;
+  left: 0px;
+  font-size: 50px;
+}
+
+.carouselSubline {
+  color: white;
+  position: absolute;
+  top: 300px;
+  left: 0px;
+  font-size: 24px;
+}
+
+.imgRow {
+  height: auto;
+  max-width: 110%;
+  overflow-x: hidden;
+  margin-left: -2px;
+}
+
+.topRow,
+.bottomRow {
+  position: relative;
+  left: 2px;
+  margin-bottom: -160px;
+
+  overflow-x: hidden;
+}
+
+.buildButton,
+.allModels {
+  position: relative;
+  bottom: 80px;
+  left: 30px;
+  margin-right: 10px;
+}
+
+.carName {
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+  position: relative;
+  bottom: 340px;
+  left: 30px;
+  margin-right: 10px;
+}
+
+.carPrice {
+  color: white;
+  font-size: 20px;
+  position: relative;
+  bottom: 365px;
+  left: 30px;
+  margin-right: 10px;
+}
+
+.headlineText {
+  color: grey;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.push {
+  height: 800px;
+}

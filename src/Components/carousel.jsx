@@ -9,7 +9,7 @@ class CriaCarousel extends Component {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="/images/background/porsche-normal0.webp?text=First slide&bg=373940"
+            src="../images/background/porsche-normal0.webp?text=First slide&bg=373940"
             alt="First slide"
           />
           <Carousel.Caption className="carouselHeadline">

@@ -25,7 +25,7 @@ class BodyContent extends Component {
         <Row className="topRow">
           <Col xs={1} md={4}>
             <Image
-              src="/images/porsche-small_718.webp"
+              src="./images/porsche-small_718.webp"
               rounded
               className="imgRow"
             />
@@ -42,7 +42,7 @@ class BodyContent extends Component {
           </Col>
           <Col xs={2} md={4}>
             <Image
-              src="/images/porsche-small_911.webp"
+              src="./images/porsche-small_911.webp"
               rounded
               className="imgRow"
             />
@@ -58,7 +58,7 @@ class BodyContent extends Component {
           </Col>
           <Col xs={3} md={4}>
             <Image
-              src="/images/porsche-small_taycan.webp"
+              src="./images/porsche-small_taycan.webp"
               rounded
               className="imgRow"
             />
@@ -77,7 +77,7 @@ class BodyContent extends Component {
         <Row className="bottomRow">
           <Col xs={4} md={4}>
             <Image
-              src="/images/porsche-small_panamera.webp"
+              src="./images/porsche-small_panamera.webp"
               rounded
               className="imgRow"
             />
@@ -93,7 +93,7 @@ class BodyContent extends Component {
           </Col>
           <Col xs={5} md={4}>
             <Image
-              src="/images/porsche-small_macan.webp"
+              src="./images/porsche-small_macan.webp"
               rounded
               className="imgRow"
             />
@@ -109,7 +109,7 @@ class BodyContent extends Component {
           </Col>
           <Col xs={6} md={4}>
             <Image
-              src="/images/porsche-small_cayenne.webp"
+              src="./images/porsche-small_cayenne.webp"
               rounded
               className="imgRow"
             />

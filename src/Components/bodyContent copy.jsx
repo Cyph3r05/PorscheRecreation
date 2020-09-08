@@ -18,7 +18,7 @@ class BodyContent extends Component {
         <div className="row">
           <div className="column">
             <Card classNameName="bg-dark text-dark">
-              <Card.Img src="/images/porsche-thumbwhite.jpg" alt="Card image" />
+              <Card.Img src="./images/porsche-thumbwhite.jpg" alt="Card image" />
               <Card.ImgOverlay>
                 <Card.Text>
                   This is a wider card with supporting text below as a natural
@@ -36,7 +36,7 @@ class BodyContent extends Component {
         <div className="row">
           <div className="column">
             <Card classNameName="bg-dark text-dark">
-              <Card.Img src="/images/porsche-thumbwhite.jpg" alt="Card image" />
+              <Card.Img src="./images/porsche-thumbwhite.jpg" alt="Card image" />
               <Card.ImgOverlay>
                 <Card.Text>
                   This is a wider card with supporting text below as a natural
@@ -54,7 +54,7 @@ class BodyContent extends Component {
         <div className="row">
           <div className="column">
             <Card classNameName="bg-dark text-dark">
-              <Card.Img src="/images/porsche-thumbwhite.jpg" alt="Card image" />
+              <Card.Img src="./images/porsche-thumbwhite.jpg" alt="Card image" />
               <Card.ImgOverlay>
                 <Card.Text>
                   This is a wider card with supporting text below as a natural
@@ -72,7 +72,7 @@ class BodyContent extends Component {
         <div className="row">
           <div className="column">
             <Card classNameName="bg-dark text-dark">
-              <Card.Img src="/images/porsche-thumbwhite.jpg" alt="Card image" />
+              <Card.Img src="./images/porsche-thumbwhite.jpg" alt="Card image" />
               <Card.ImgOverlay>
                 <Card.Text>
                   This is a wider card with supporting text below as a natural
@@ -90,7 +90,7 @@ class BodyContent extends Component {
         <div className="row">
           <div className="column">
             <Card className="bg-dark text-dark">
-              <Card.Img src="/images/porsche-thumbwhite.jpg" alt="Card image" />
+              <Card.Img src="./images/porsche-thumbwhite.jpg" alt="Card image" />
               <Card.ImgOverlay>
                 <Card.Text>
                   This is a wider card with supporting text below as a natural
@@ -108,7 +108,7 @@ class BodyContent extends Component {
         <div className="row">
           <div className="column">
             <Card className="bg-dark text-dark">
-              <Card.Img src="/images/porsche-thumbwhite.jpg" alt="Card image" />
+              <Card.Img src="./images/porsche-thumbwhite.jpg" alt="Card image" />
               <Card.ImgOverlay>
                 <Card.Text>
                   This is a wider card with supporting text below as a natural

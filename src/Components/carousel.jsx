@@ -9,7 +9,7 @@ class CriaCarousel extends Component {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="../images/background/porsche-normal0.webp?text=First slide&bg=373940"
+            src="./images/background/porsche-normal0.webp?text=First slide&bg=373940"
             alt="First slide"
           />
           <Carousel.Caption className="carouselHeadline">
@@ -32,7 +32,7 @@ class CriaCarousel extends Component {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="images/background/porsche-normal2.webp?text=Third slide&bg=20232a"
+            src="./images/background/porsche-normal2.webp?text=Third slide&bg=20232a"
             alt="Third slide"
           />
 
@@ -46,7 +46,7 @@ class CriaCarousel extends Component {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="../../images/background/porsche-normal3.webp?text=Third slide&bg=20232a"
+            src="./images/background/porsche-normal3.webp?text=Third slide&bg=20232a"
             alt="Forth slide"
           />
 
@@ -58,7 +58,7 @@ class CriaCarousel extends Component {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="./../images/background/porsche-normal4.webp?text=Third slide&bg=20232a"
+            src="./images/background/porsche-normal4.webp?text=Third slide&bg=20232a"
             alt="Fifth slide"
           />
           <Carousel.Caption className="carouselHeadline">

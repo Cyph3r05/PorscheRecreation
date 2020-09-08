@@ -20,8 +20,8 @@ class CriaCarousel extends Component {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="/images/background/porsche-normal1.webp?text=Second slide&bg=282c34"
-            alt="Third slide"
+            src="./images/background/porsche-normal1.webp?text=Second slide&bg=282c34"
+            alt="Second slide"
           />
 
           <Carousel.Caption className="carouselHeadline">
@@ -32,7 +32,7 @@ class CriaCarousel extends Component {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="/images/background/porsche-normal2.webp?text=Third slide&bg=20232a"
+            src="images/background/porsche-normal2.webp?text=Third slide&bg=20232a"
             alt="Third slide"
           />
 
@@ -46,8 +46,8 @@ class CriaCarousel extends Component {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="/images/background/porsche-normal3.webp?text=Third slide&bg=20232a"
-            alt="Third slide"
+            src="../../images/background/porsche-normal3.webp?text=Third slide&bg=20232a"
+            alt="Forth slide"
           />
 
           <Carousel.Caption className="carouselHeadline">
@@ -58,8 +58,8 @@ class CriaCarousel extends Component {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="/images/background/porsche-normal4.webp?text=Third slide&bg=20232a"
-            alt="Third slide"
+            src="./../images/background/porsche-normal4.webp?text=Third slide&bg=20232a"
+            alt="Fifth slide"
           />
           <Carousel.Caption className="carouselHeadline">
             <h3 className="carouselHeadline">> Soul, electrified.</h3>
